@@ -1,5 +1,5 @@
 # Swush
-![Repository Icon](pfad/zum/icon.png)
+![Swush Icon](Swush/Swush_Icon.png)
 - [Deutsch](#deutsche-version)
 - [English](#english-version)
 
