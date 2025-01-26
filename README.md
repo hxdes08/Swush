@@ -1,5 +1,5 @@
 # Swush
-
+![Swush Icon](Swush_Icon_klein.png)
 - [Deutsch](#deutsche-version)
 - [English](#english-version)
 
