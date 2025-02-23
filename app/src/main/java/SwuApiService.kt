@@ -5,7 +5,6 @@ import retrofit2.http.Query
 import retrofit2.http.Path
 
 interface SwuApiService {
-    @GET("/mobility/v1/route/attributes/BaseData")
+    @GET("routes")
     suspend fun getAllRoutes(): List<Routes>
-
 }
